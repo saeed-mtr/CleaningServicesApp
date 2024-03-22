@@ -1,0 +1,59 @@
+.service-selector {
+  display: block;
+  /* border: 2px solid red; */
+  gap: 10px;
+}
+
+.service-item-line {
+  display: flex;
+}
+
+.service-item {
+  width: 70%;
+  background-color: #f0f0f0;
+  border-radius: 20px;
+  overflow: hidden;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+  margin-top: 15px;
+}
+
+.service-item img {
+  border-radius: 20px;
+  width: 50%;
+}
+.service-item:hover {
+  transform: scale(1.5);
+  border: 2px solid rgb(0, 102, 255);
+}
+
+.service-image {
+  width: 50%;
+  float: right; /* Floats the image to the right */
+  margin: 10px;
+}
+
+.service-name {
+  font-size: 18px;
+  padding: 10px;
+  text-align: center;
+  margin-top: 22px;
+}
+
+/* Alternate positioning for left and right items */
+.service-item.left {
+  transform: translateX(0%);
+}
+
+.service-item.right {
+  transform: translateX(42.7%);
+}
+
+.ServiceLeft {
+  float: right;
+}
+
+.ServiceRight {
+  float: left;
+}
