@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/saeedcleaningapp/static/css/main.295273ec.css",
-    "main.js": "/saeedcleaningapp/static/js/main.cba10a56.js",
-    "static/js/453.0a9f4b6c.chunk.js": "/saeedcleaningapp/static/js/453.0a9f4b6c.chunk.js",
-    "index.html": "/saeedcleaningapp/index.html",
-    "main.295273ec.css.map": "/saeedcleaningapp/static/css/main.295273ec.css.map",
-    "main.cba10a56.js.map": "/saeedcleaningapp/static/js/main.cba10a56.js.map",
-    "453.0a9f4b6c.chunk.js.map": "/saeedcleaningapp/static/js/453.0a9f4b6c.chunk.js.map"
+    "main.css": "/static/css/main.295273ec.css",
+    "main.js": "/static/js/main.731e8c67.js",
+    "static/js/453.0a9f4b6c.chunk.js": "/static/js/453.0a9f4b6c.chunk.js",
+    "index.html": "/index.html",
+    "main.295273ec.css.map": "/static/css/main.295273ec.css.map",
+    "main.731e8c67.js.map": "/static/js/main.731e8c67.js.map",
+    "453.0a9f4b6c.chunk.js.map": "/static/js/453.0a9f4b6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.295273ec.css",
-    "static/js/main.cba10a56.js"
+    "static/js/main.731e8c67.js"
   ]
 }
