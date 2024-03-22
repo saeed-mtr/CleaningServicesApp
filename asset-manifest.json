@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/saeedcleaningapp/static/css/main.295273ec.css",
-    "main.js": "/saeedcleaningapp/static/js/main.4f33b816.js",
+    "main.js": "/saeedcleaningapp/static/js/main.b60aaad6.js",
     "static/js/453.0a9f4b6c.chunk.js": "/saeedcleaningapp/static/js/453.0a9f4b6c.chunk.js",
     "index.html": "/saeedcleaningapp/index.html",
     "main.295273ec.css.map": "/saeedcleaningapp/static/css/main.295273ec.css.map",
-    "main.4f33b816.js.map": "/saeedcleaningapp/static/js/main.4f33b816.js.map",
+    "main.b60aaad6.js.map": "/saeedcleaningapp/static/js/main.b60aaad6.js.map",
     "453.0a9f4b6c.chunk.js.map": "/saeedcleaningapp/static/js/453.0a9f4b6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.295273ec.css",
-    "static/js/main.4f33b816.js"
+    "static/js/main.b60aaad6.js"
   ]
 }
