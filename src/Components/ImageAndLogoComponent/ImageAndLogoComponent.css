@@ -29,5 +29,13 @@
 h4 {
   text-align: center;
   font-size: larger;
+  font-weight: 400;
+  direction: rtl;
+  font-style: oblique;
+}
+
+h5 {
+  text-align: center;
+  font-size: larger;
   direction: rtl;
 }

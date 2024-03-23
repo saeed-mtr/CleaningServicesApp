@@ -14,6 +14,7 @@ export default function componenImageAndLogoComponenttName() {
       <br />
       <br />
       <h4> בחירת הנקיון המושלמת שלך בישראל</h4>
+      <h5>לחץ על השירות המבוקש כדי לקבוע תאריך ושעת הגעה</h5>
     </>
   );
 }
