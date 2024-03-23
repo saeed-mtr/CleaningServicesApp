@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/saeedcleaningapp/static/css/main.295273ec.css",
-    "main.js": "/saeedcleaningapp/static/js/main.b60aaad6.js",
-    "static/js/453.0a9f4b6c.chunk.js": "/saeedcleaningapp/static/js/453.0a9f4b6c.chunk.js",
-    "index.html": "/saeedcleaningapp/index.html",
-    "main.295273ec.css.map": "/saeedcleaningapp/static/css/main.295273ec.css.map",
-    "main.b60aaad6.js.map": "/saeedcleaningapp/static/js/main.b60aaad6.js.map",
-    "453.0a9f4b6c.chunk.js.map": "/saeedcleaningapp/static/js/453.0a9f4b6c.chunk.js.map"
+    "main.css": "/CleaningServicesApp/static/css/main.1ece53ba.css",
+    "main.js": "/CleaningServicesApp/static/js/main.72d241a0.js",
+    "static/js/453.0a9f4b6c.chunk.js": "/CleaningServicesApp/static/js/453.0a9f4b6c.chunk.js",
+    "index.html": "/CleaningServicesApp/index.html",
+    "main.1ece53ba.css.map": "/CleaningServicesApp/static/css/main.1ece53ba.css.map",
+    "main.72d241a0.js.map": "/CleaningServicesApp/static/js/main.72d241a0.js.map",
+    "453.0a9f4b6c.chunk.js.map": "/CleaningServicesApp/static/js/453.0a9f4b6c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.295273ec.css",
-    "static/js/main.b60aaad6.js"
+    "static/css/main.1ece53ba.css",
+    "static/js/main.72d241a0.js"
   ]
 }
