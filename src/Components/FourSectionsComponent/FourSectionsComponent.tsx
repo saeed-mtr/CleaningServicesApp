@@ -3,10 +3,22 @@ import './FourSectionsComponent.css'; // import your CSS file for styling
 
 const ServiceSelector = () => {
   const services = [
-    { name: 'House Clean', image: 'home-clean.jpg' },
-    { name: 'Car Clean', image: 'car-clean.jpg' },
-    { name: 'Office Clean', image: 'office-clean.jpg' },
-    { name: 'Carpets', image: 'carpets-clean.jpg' },
+    {
+      name: 'House Clean',
+      image: 'home-clean.jpg',
+    },
+    {
+      name: 'Car Clean',
+      image: 'car-clean.jpg',
+    },
+    {
+      name: 'Office Clean',
+      image: 'office-clean.jpg',
+    },
+    {
+      name: 'Carpets',
+      image: 'carpets-clean.jpg',
+    },
   ];
 
   const handleNavigate = () => {
