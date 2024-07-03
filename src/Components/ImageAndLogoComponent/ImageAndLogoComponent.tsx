@@ -12,9 +12,9 @@ export default function componenImageAndLogoComponenttName() {
       <br />
       <br />
       <br />
-      <br />
-      <h4> בחירת הנקיון המושלמת שלך בישראל</h4>
-      <h5>לחץ על השירות המבוקש כדי לקבוע תאריך ושעת הגעה</h5>
+      <h4> Your trusted partner in Condo and Car Cleanings</h4>
+      <h5 className='centerLine'>Try us once and you'll see yourself.. </h5>
+      <h5> Money Back guaranteed if not satisfied!</h5>
     </>
   );
 }

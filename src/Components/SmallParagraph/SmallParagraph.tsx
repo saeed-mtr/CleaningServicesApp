@@ -16,7 +16,7 @@ export default function SmallParagraph() {
               }}
               fontSize='1.7em'
             />
-            השירותים שלנו מספקים ניקיון מושלם ומקיף לכל הבתים והמשרדים בעיר.
+            Full cleaning service and full cooperation
           </li>
           <li>
             <FontAwesomeIcon
@@ -27,8 +27,7 @@ export default function SmallParagraph() {
               }}
               fontSize='1.7em'
             />
-            צוות הניקיון שלנו מקצועי וידע עשיר בשיטות וחומרים המבטיחים תוצאות
-            מרשימות.
+            Experienced Team
           </li>
           <li>
             <FontAwesomeIcon
@@ -39,7 +38,7 @@ export default function SmallParagraph() {
               }}
               fontSize='1.7em'
             />
-            אנו מציעים שירותי ניקיון מותאמים אישית, שמתאימים לצרכים ולתקציב שלך.
+            trusted by 100+ partners
           </li>
           <li>
             <FontAwesomeIcon
@@ -50,14 +49,10 @@ export default function SmallParagraph() {
               }}
               fontSize='1.7em'
             />
-            לא רק אנו מנקים כיף, אלא אנו גם משמרים את סביבת העבודה והבית שלך
-            בסדר ובניקיון מושלם.
+            you'll be treated with a fresh and good smelling house
           </li>
           <br />
-          <h3>
-            בחר בשירות הניקיון המוביל בעיר - חווית ניקוי ברמה גבוהה ושירות אדיב
-            ומקצועי ללקוחותינו היקרים.
-          </h3>
+          <h3>Book your preffered time now and let us take care of you.</h3>
         </p>
       </div>
     </>

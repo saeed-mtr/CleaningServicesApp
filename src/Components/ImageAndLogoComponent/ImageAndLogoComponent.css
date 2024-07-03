@@ -30,12 +30,15 @@ h4 {
   text-align: center;
   font-size: larger;
   font-weight: 400;
-  direction: rtl;
+  /* direction: rtl; */
   font-style: oblique;
 }
-
 h5 {
   text-align: center;
+  font-weight: 600;
+  /* direction: rtl; */
+}
+
+.centerLine {
   font-size: larger;
-  direction: rtl;
 }

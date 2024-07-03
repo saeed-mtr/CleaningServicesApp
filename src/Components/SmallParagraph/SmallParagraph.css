@@ -1,6 +1,6 @@
 .smallparagraph {
   padding: 20px;
-  direction: rtl;
+  /* direction: rtl; */
   display: flex;
   justify-content: center;
   /* text-align: center; */
@@ -11,6 +11,7 @@
   padding: 20px;
   list-style: none;
   align-items: center;
+  gap: 10px;
 }
 
 .smallparagraph h3 {
