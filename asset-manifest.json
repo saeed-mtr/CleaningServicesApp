@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CleaningServicesApp/static/css/main.c4787c29.css",
-    "main.js": "/CleaningServicesApp/static/js/main.40026418.js",
-    "static/js/453.0a9f4b6c.chunk.js": "/CleaningServicesApp/static/js/453.0a9f4b6c.chunk.js",
-    "index.html": "/CleaningServicesApp/index.html",
-    "main.c4787c29.css.map": "/CleaningServicesApp/static/css/main.c4787c29.css.map",
-    "main.40026418.js.map": "/CleaningServicesApp/static/js/main.40026418.js.map",
-    "453.0a9f4b6c.chunk.js.map": "/CleaningServicesApp/static/js/453.0a9f4b6c.chunk.js.map"
+    "main.css": "/static/css/main.e6bb8899.css",
+    "main.js": "/static/js/main.d279297c.js",
+    "static/js/453.b0b3846a.chunk.js": "/static/js/453.b0b3846a.chunk.js",
+    "index.html": "/index.html",
+    "main.e6bb8899.css.map": "/static/css/main.e6bb8899.css.map",
+    "main.d279297c.js.map": "/static/js/main.d279297c.js.map",
+    "453.b0b3846a.chunk.js.map": "/static/js/453.b0b3846a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4787c29.css",
-    "static/js/main.40026418.js"
+    "static/css/main.e6bb8899.css",
+    "static/js/main.d279297c.js"
   ]
 }
