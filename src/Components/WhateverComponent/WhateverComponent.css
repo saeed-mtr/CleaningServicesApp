@@ -1,8 +1,12 @@
-.text {
+.all {
+  display: flex;
+  flex-direction: column;
   text-align: center;
-  padding-top: 20%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding: 10px;
   margin: 20px;
-  height: 700px;
+  height: fit-content;
   border: 2px dashed rgb(0, 102, 255);
-  border-radius: 50px;
+  border-radius: 30px;
 }

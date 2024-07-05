@@ -4,8 +4,12 @@ import './FourSectionsComponent.css'; // import your CSS file for styling
 const ServiceSelector = () => {
   const services = [
     {
-      name: 'House Clean',
+      name: 'Extra Fresh Condo Clean',
       image: 'home-clean.jpg',
+    },
+    {
+      name: 'Premium Condo Service',
+      image: 'carpets-clean.jpg',
     },
     {
       name: 'Car Clean',
@@ -15,14 +19,14 @@ const ServiceSelector = () => {
       name: 'Office Clean',
       image: 'office-clean.jpg',
     },
-    {
-      name: 'Carpets',
-      image: 'carpets-clean.jpg',
-    },
   ];
 
-  const handleNavigate = () => {
-    window.location.href = 'https://tidycal.com/assyjohn/detailingbooking';
+  const handleNavigate = (service: string) => {
+    if (service === 'Extra Fresh Condo Clean') {
+      window.location.href = 'https://tidycal.com/freshtoronto/extrafreshcondo';
+    } else {
+      window.location.href = 'https://tidycal.com/freshtoronto/premiumcondo';
+    }
   };
 
   return (
@@ -33,7 +37,7 @@ const ServiceSelector = () => {
             key={index}
             className={`service-item ${index % 2 === 0 ? 'left' : 'right'}`}
             onClick={() => {
-              handleNavigate();
+              handleNavigate(service.name);
             }}
           >
             <img
