@@ -12,7 +12,7 @@ export default function componenImageAndLogoComponenttName() {
       <br />
       <br />
       <br />
-      <h4> Your trusted partner in Condo and Car Cleanings</h4>
+      <h4> Your trusted partner for a Fresh Condo</h4>
       <h5 className='centerLine'>Try us once and you'll see yourself.. </h5>
       <h5> Money Back guaranteed if not satisfied!</h5>
     </>

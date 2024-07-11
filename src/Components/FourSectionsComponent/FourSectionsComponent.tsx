@@ -4,19 +4,19 @@ import './FourSectionsComponent.css'; // import your CSS file for styling
 const ServiceSelector = () => {
   const services = [
     {
-      name: 'Extra Fresh Condo Clean',
+      name: 'Extra Fresh Condo Clean - $35',
       image: 'home-clean.jpg',
     },
     {
-      name: 'Premium Condo Service',
+      name: 'Premium Condo Service - $65',
       image: 'carpets-clean.jpg',
     },
     {
-      name: 'Car Clean',
-      image: 'car-clean.jpg',
+      name: 'Property Management - book to quote - free',
+      image: 'property-management.jpg',
     },
     {
-      name: 'Office Clean',
+      name: 'Office Clean - $65',
       image: 'office-clean.jpg',
     },
   ];
@@ -48,13 +48,11 @@ const ServiceSelector = () => {
               }`}
             />
             <div className='service-name'>{service.name}</div>
+            <br />
+            <br />
+            <p className='callToAction'>Click here to Book</p>
           </div>
-          <div className='serviceParagraph'>
-            {/* <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque id
-              dolorum repellat exercitationem nobis. Dolorum, debitis.
-            </p> */}
-          </div>
+          <div className='serviceParagraph'></div>
         </div>
       ))}
     </div>

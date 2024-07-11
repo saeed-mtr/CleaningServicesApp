@@ -16,7 +16,7 @@ export default function SmallParagraph() {
               }}
               fontSize='1.7em'
             />
-            Full cleaning service and full cooperation
+            Full cleaning service with full cooperation
           </li>
           <li>
             <FontAwesomeIcon
@@ -49,7 +49,7 @@ export default function SmallParagraph() {
               }}
               fontSize='1.7em'
             />
-            you'll be treated with a fresh and good smelling house
+            Your life will immediately improve after our service
           </li>
           <br />
           <h3>Book your preffered time now and let us take care of you.</h3>

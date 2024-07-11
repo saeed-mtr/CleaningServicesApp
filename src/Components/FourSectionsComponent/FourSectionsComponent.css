@@ -36,7 +36,7 @@
 
 .service-name {
   font-size: 18px;
-  padding: 10px;
+  padding: 5px;
   text-align: center;
   margin-top: 22px;
 }
@@ -44,10 +44,12 @@
 /* Alternate positioning for left and right items */
 .service-item.left {
   transform: translateX(0%);
+  margin-left: 10px;
 }
 
 .service-item.right {
   transform: translateX(42.7%);
+  margin-right: 10px;
 }
 
 .ServiceLeft {
@@ -56,4 +58,37 @@
 
 .ServiceRight {
   float: left;
+}
+
+.callToAction {
+  font-size: smaller;
+  animation: flash 1s infinite, bounce 1s infinite;
+}
+
+@keyframes flash {
+  0% {
+    color: blue;
+  }
+  50% {
+    color: black;
+  }
+  100% {
+    color: blue;
+  }
+}
+
+@keyframes bounce {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-10px);
+  }
+  60% {
+    transform: translateY(-5px);
+  }
 }
