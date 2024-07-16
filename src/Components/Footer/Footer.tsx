@@ -28,7 +28,7 @@ const Footer = () => {
             </li> */}
             {/* Add more footer links as needed */}
             <li>
-              <a href='https://wa.me/+972507744588'>
+              <a href='https://wa.me/+14378603717'>
                 <FontAwesomeIcon
                   icon={faWhatsapp}
                   color='#26ff00'

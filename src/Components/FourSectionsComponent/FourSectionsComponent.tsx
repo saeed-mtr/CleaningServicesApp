@@ -6,18 +6,22 @@ const ServiceSelector = () => {
     {
       name: 'Extra Fresh Condo Clean - $35',
       image: 'home-clean.jpg',
+      descriprion: '1:15 hours of freshennig session',
     },
     {
       name: 'Premium Condo Service - $65',
       image: 'carpets-clean.jpg',
+      descriprion: '2:15 hours of deep clean',
     },
     {
       name: 'Property Management - book to quote - free',
       image: 'property-management.jpg',
+      descriprion: 'Full building management by tailored requirements',
     },
     {
       name: 'Office Clean - $65',
       image: 'office-clean.jpg',
+      descriprion: 'Office brightening and cleaning by requirements',
     },
   ];
 
@@ -48,11 +52,12 @@ const ServiceSelector = () => {
               }`}
             />
             <div className='service-name'>{service.name}</div>
+            <div className='serviceParagraph'>{service.descriprion}</div>
+
             <br />
             <br />
             <p className='callToAction'>Click here to Book</p>
           </div>
-          <div className='serviceParagraph'></div>
         </div>
       ))}
     </div>
